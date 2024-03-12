@@ -23,7 +23,7 @@ marp: true
 math: true
 ---
 
-# The Scheduling
+# Scheduling
 
     Module Code: COMP1712
 
@@ -99,6 +99,7 @@ Some well known strategies/policies: ​
       Process 2 (P2)->Estimated Run Time: 3 ​
 
       Process  3 (P3)->Estimated Run Time: 3 ​
+
 ![center](../../figures/FCFSAnalysis1.png)
 
 - For analysis,  let’s assume unit as “milliseconds”.​
